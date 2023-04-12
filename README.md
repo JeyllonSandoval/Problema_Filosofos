@@ -33,9 +33,7 @@ Al comienzo del código se definene las siguientes Constantes:
 
 La solución consiste en tener un arreglo de RLock, que representarán los palillos y la estrategia consiste en tomar el palillo de la izquierda, y revisar si está disponible el de la derecha, si este es el caso, entonces se toma el de la derecha y se empieza a comer.
 
-<pre><code>
-palillo_izq.acquire()
-
+<pre><code>palillo_izq.acquire()
 if palillo_der.acquire(blocking=False):
     return True
 else:
