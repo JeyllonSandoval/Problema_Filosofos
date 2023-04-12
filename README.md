@@ -31,7 +31,7 @@ Al comienzo del código se definene las siguientes Constantes:
 
 ### Solución
 
-La solución consiste en tener un arreglo de RLock, que representarán los palillos y la estrategia consiste en tomar el palillo de la izquierda, y revisar si está disponible el de la derecha, si este es el caso, entonces se toma el de la derecha y se empieza a comer.
+Consiste en un arreglo de Rlock, que presenta los tenedores. La forma en que esta diseñado para que se tome el tenedor de la izquierda, y ver si el tenedor de la derecha se puede tomar. Si se logra tomar el de la derecha, el Filósfo comienza a comer.
 
 <pre><code>teneedor_izq.acquire()
 if tenedor_der.acquire(blocking=False):
