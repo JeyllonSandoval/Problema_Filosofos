@@ -26,6 +26,7 @@ Al comienzo del código se definene las siguientes Constantes:
 ### Semáforos
 
 `Tenedor_izq = candados[id_filosofo]`
+
 `Tenedor_der = candados[(id_filosofo - 1) % CANTIDAD_FILOSOFOS]`
 
 
