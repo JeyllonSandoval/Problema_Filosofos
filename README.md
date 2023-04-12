@@ -34,7 +34,7 @@ Al comienzo del código se definene las siguientes Constantes:
 La solución consiste en tener un arreglo de RLock, que representarán los palillos y la estrategia consiste en tomar el palillo de la izquierda, y revisar si está disponible el de la derecha, si este es el caso, entonces se toma el de la derecha y se empieza a comer.
 
 <pre><code>teneedor_izq.acquire()
-<span style="color:orange">if</span> tenedor_der.acquire(blocking=False):
+<font color='red'>if</font> tenedor_der.acquire(blocking=False):
     return True
 else:
     tenedor_izq.release()
