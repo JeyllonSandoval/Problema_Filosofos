@@ -21,10 +21,10 @@ Al comienzo del código se definene varias Constantes, como:
 Consiste en un arreglo de Rlock, que presenta los tenedores. La forma en que esta diseñado para que se tome el tenedor de la izquierda, y ver si el tenedor de la derecha se puede tomar. Si se logra tomar el de la derecha, el Filósfo comienza a comer.
 
 <pre><code>tenedor_izq.acquire()
-if tenedor_der.acquire(blocking=False):
+if Tenedor_der.acquire(blocking=False):
     return True
 else:
-    tenedor_izq.release()
+    Tenedor_izq.release()
     return False
 </code></pre>
 
