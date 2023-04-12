@@ -5,12 +5,12 @@ Este código en Python implementa una solución al problema conocido como "El Pr
 # Funcionamiento del Código
 Al comienzo del código se definene las siguientes Constantes:
 
-### CANTIDAD_FILOSOFOS = 0
-### MAX_INTENTOS =10
-### COMER = 0
-### TIEMPO_COMER = 0
-### FILOSOFO = "F"
-### HAMBRIENTO = "H"
-### COMIENDO = "C"
-### SATISFECHO = "S"
-### MUERTO = "M"
+`CANTIDAD_FILOSOFOS = 0`
+`MAX_INTENTOS =10`
+`COMER = 0`
+`TIEMPO_COMER = 0`
+`FILOSOFO = "F"`
+`HAMBRIENTO = "H"`
+`COMIENDO = "C"`
+`SATISFECHO = "S"`
+`MUERTO = "M"`
