@@ -29,7 +29,17 @@ Al comienzo del código se definene las siguientes Constantes:
 
 `Tenedor_der = candados[(id_filosofo - 1) % CANTIDAD_FILOSOFOS]`
 
+### Solución
 
+La solución consiste en tener un arreglo de RLock, que representarán los palillos y la estrategia consiste en tomar el palillo de la izquierda, y revisar si está disponible el de la derecha, si este es el caso, entonces se toma el de la derecha y se empieza a comer.
 
+<pre><code>
+palillo_izq.acquire()
 
+if palillo_der.acquire(blocking=False):
+    return True
+else:
+    palillo_izq.release()
+    return False
+</code></pre>
 
