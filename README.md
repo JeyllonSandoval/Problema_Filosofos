@@ -41,4 +41,4 @@ else:
 
 ### Video Explicativo sobre la solucion del problema de los barberos
 
-> [Video Expliactivo]()
+> [Video Explicativo](https://miucateciedu-my.sharepoint.com/:v:/g/personal/20211155_miucateci_edu_do/EYnSq10pPTVJhfvMNnj8OPYBksV_n3fiQ_sL9aYX3-BVeQ?e=ATFvko)
