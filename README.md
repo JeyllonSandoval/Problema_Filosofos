@@ -80,4 +80,5 @@ Es una situación en la que un conjunto de procesos se bloquea mutuamente en un 
 El problema de los filósofos es un problema clásico de concurrencia que implica a varios filósofos sentados alrededor de una mesa con un plato de comida, y una horquilla para cada uno. El problema se puede solucionar utilizando técnicas como exclusión mutua, espera aleatoria y ordenamiento de recursos. De manera similar, el interbloqueo en sistemas operativos se puede solucionar utilizando técnicas como exclusión mutua, ordenamiento de recursos y liberación de recursos en un orden específico.
 
 Jeyllon Sandoval 2021-1155
+
 Emmanuel Torres 2021-1097
