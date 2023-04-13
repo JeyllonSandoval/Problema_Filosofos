@@ -30,6 +30,20 @@ else:
     return False
 </code></pre>
 
+***[Practice 1  - ETM (1).pdf](https://github.com/EmmanuelETM/Problema_Filosofos/files/11217223/Practice.1.-.ETM.1.pdf)
+
+
+### Código de la solucion del problema de python
+
+> [Problema de los Filósofos](https://github.com/EmmanuelETM/Problema_Filosofos/blob/main/Problema_Filosofos.py)
+> 
+### Diagrama de Flujo
+
+> [Diagrama de Flujo](https://github.com/EmmanuelETM/Problema_Filosofos/blob/main/Diagrama%20del%20problema%20de%20los%20filosofos.png)
+
+### Video Explicativo sobre la solucion del problema de los barberos
+
+> [Video Explicativo](https://miucateciedu-my.sharepoint.com/:v:/g/personal/20211155_miucateci_edu_do/EYnSq10pPTVJhfvMNnj8OPYBksV_n3fiQ_sL9aYX3-BVeQ?e=ATFvko)
 
 ***
 
@@ -66,17 +80,3 @@ Es una situación en la que un conjunto de procesos se bloquea mutuamente en un 
 
 # Cómo manejar el interbloqueo en sistemas operativos – Compara con el problema de los filósofos
 El problema de los filósofos es un problema clásico de concurrencia que implica a varios filósofos sentados alrededor de una mesa con un plato de comida, y una horquilla para cada uno. El problema se puede solucionar utilizando técnicas como exclusión mutua, espera aleatoria y ordenamiento de recursos. De manera similar, el interbloqueo en sistemas operativos se puede solucionar utilizando técnicas como exclusión mutua, ordenamiento de recursos y liberación de recursos en un orden específico.
-
-
-
-### Código de la solucion del problema de python
-
-> [Problema de los Filósofos](https://github.com/EmmanuelETM/Problema_Filosofos/blob/main/Problema_Filosofos.py)
-> 
-### Diagrama de Flujo
-
-> [Diagrama de Flujo](https://github.com/EmmanuelETM/Problema_Filosofos/blob/main/Diagrama%20del%20problema%20de%20los%20filosofos.png)
-
-### Video Explicativo sobre la solucion del problema de los barberos
-
-> [Video Explicativo](https://miucateciedu-my.sharepoint.com/:v:/g/personal/20211155_miucateci_edu_do/EYnSq10pPTVJhfvMNnj8OPYBksV_n3fiQ_sL9aYX3-BVeQ?e=ATFvko)
