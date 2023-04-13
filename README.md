@@ -31,6 +31,7 @@ else:
 </code></pre>
 
 
+***
 
 # Concurrencia 
 Es la capacidad de un sistema informático para realizar múltiples tareas o procesos simultáneamente, de manera que parezca que están sucediendo al mismo tiempo.
