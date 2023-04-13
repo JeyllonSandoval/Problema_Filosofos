@@ -31,6 +31,43 @@ else:
 </code></pre>
 
 
+
+# Concurrencia 
+Es la capacidad de un sistema informático para realizar múltiples tareas o procesos simultáneamente, de manera que parezca que están sucediendo al mismo tiempo.
+
+
+# Paralelismo vs. Concurrencia en informática
+Ambos conceptos se refieren a la ejecución simultánea de procesos, pero el paralelismo implica la ejecución real simultánea de múltiples tareas en diferentes núcleos o procesadores, mientras que la concurrencia implica la ejecución aparente simultánea de múltiples tareas mediante la alternancia entre ellas.
+
+
+# Hilos implementación en Python
+Python tiene una biblioteca estándar de hilos llamada threading, que permite la creación y administración de hilos en aplicaciones Python. Los hilos son una forma de lograr la concurrencia en Python.
+
+
+# Deadlock
+Ocurre cuando dos o más procesos se bloquean entre sí mientras esperan recursos que poseen los otros procesos, lo que resulta en una situación en la que ningún proceso puede avanzar.
+
+
+# Exclusión mutual
+Es un mecanismo que se utiliza para garantizar que solo un proceso pueda acceder a un recurso compartido en un momento dado, para evitar conflictos y condiciones de carrera.
+
+
+# Mantenga y espere
+Es una técnica utilizada para prevenir los problemas de interbloqueo, que implica que un proceso mantenga cualquier recurso que ya tenga mientras espera para adquirir otros recursos que necesita.
+
+# No preventivo
+Un sistema de interbloqueo no preventivo no toma medidas para evitar o prevenir el interbloqueo. En lugar de eso, intenta resolver los problemas de interbloqueo después de que hayan ocurrido.
+
+
+# Espera circular
+Es una situación en la que un conjunto de procesos se bloquea mutuamente en un ciclo de espera circular, lo que resulta en un interbloqueo.
+
+
+# Cómo manejar el interbloqueo en sistemas operativos – Compara con el problema de los filósofos
+El problema de los filósofos es un problema clásico de concurrencia que implica a varios filósofos sentados alrededor de una mesa con un plato de comida, y una horquilla para cada uno. El problema se puede solucionar utilizando técnicas como exclusión mutua, espera aleatoria y ordenamiento de recursos. De manera similar, el interbloqueo en sistemas operativos se puede solucionar utilizando técnicas como exclusión mutua, ordenamiento de recursos y liberación de recursos en un orden específico.
+
+
+
 ### Código de la solucion del problema de python
 
 > [Problema de los Filósofos](https://github.com/EmmanuelETM/Problema_Filosofos/blob/main/Problema_Filosofos.py)
