@@ -30,9 +30,7 @@ else:
     return False
 </code></pre>
 
-***[Practice 1  - ETM (1).pdf](https://github.com/EmmanuelETM/Problema_Filosofos/files/11217223/Practice.1.-.ETM.1.pdf)
-
-
+***
 ### Código de la solucion del problema de python
 
 > [Problema de los Filósofos](https://github.com/EmmanuelETM/Problema_Filosofos/blob/main/Problema_Filosofos.py)
