@@ -30,3 +30,15 @@ else:
     return False
 </code></pre>
 
+
+### Código de la solucion del problema de python
+
+> [Problema de los Filósofos](https://github.com/)
+
+### Diagrama de Flujo
+
+> [Diagrama de Flujo](https://github.com/)
+
+### Video Explicativo sobre la solucion del problema de los barberos
+
+> [Video Expliactivo]()
