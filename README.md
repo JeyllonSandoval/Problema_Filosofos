@@ -33,11 +33,11 @@ else:
 
 ### Código de la solucion del problema de python
 
-> [Problema de los Filósofos]([[https://github.com/](https://github.com/EmmanuelETM/Problema_Filosofos/blob/main/)]
+> [Problema de los Filósofos](https://github.com/](https://github.com/EmmanuelETM/Problema_Filosofos/blob/main/)]
 > 
 ### Diagrama de Flujo
 
-> [Diagrama de Flujo]([https://github.com/](https://github.com/EmmanuelETM/Problema_Filosofos/blob/main/Diagrama%20del%20problema%20de%20los%20filosofos.png))
+> [Diagrama de Flujo](https://github.com/](https://github.com/EmmanuelETM/Problema_Filosofos/blob/main/Diagrama%20del%20problema%20de%20los%20filosofos.png))
 
 ### Video Explicativo sobre la solucion del problema de los barberos
 
