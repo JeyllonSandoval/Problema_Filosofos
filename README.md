@@ -33,7 +33,7 @@ else:
 
 ### Código de la solucion del problema de python
 
-> [Problema de los Filósofos](https://github.com/EmmanuelETM/Problema_Filosofos/blob/main/)
+> [Problema de los Filósofos][(https://github.com/EmmanuelETM/Problema_Filosofos/blob/main/)](https://github.com/EmmanuelETM/Problema_Filosofos/blob/main/Problema_Filosofos.py)
 > 
 ### Diagrama de Flujo
 
